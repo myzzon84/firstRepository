@@ -12,3 +12,7 @@ ol,
 li{
     list-style-type: none;
 }
+
+.displayFlex{
+    display: flex;
+}
